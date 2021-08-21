@@ -11,9 +11,8 @@ Estou aprendendo no momento **ReactNative, ReactJS, Api Rest C#**
   <a href="https://github.com/luisfernandomp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfernandomp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandomp&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
+</div><br />
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-mp/)](https://www.linkedin.com/in/luis-fernando-mp/)
 [![Instagram Badge](https://img.shields.io/badge/-luis-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/luis.fernando_mp/)](https://www.instagram.com/luis.fernando_mp/) 
 [![Gmail Badge](https://img.shields.io/badge/-luisfernandomesquita2016@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:luisfernandomesquita2016@gmail.com)](mailto:luisfernandomesquita2016@gmail.com)

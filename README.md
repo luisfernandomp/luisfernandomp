@@ -1,10 +1,17 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=luisfernandomp" alt="luisfernandomp" /></p>
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, meu nome é Luís</h1>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, meu nome é Luís Fernando</h1>
 <p align = "justify">Desenvolvedor Full Stack.</p>
 
 Estou aprendendo no momento **ReactNative, ReactJS, Api Rest C#**
+
+## ⚡ GitHub Stats
+ <div>
+  <a href="https://github.com/luisfernandomp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfernandomp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandomp&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-luis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-fernando-mp/)](https://www.linkedin.com/in/luis-fernando-mp/)
@@ -25,9 +32,7 @@ Estou aprendendo no momento **ReactNative, ReactJS, Api Rest C#**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) 
+  
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=luisfernandomp&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisfernandomp&hide=TeX&layout=compact)
 

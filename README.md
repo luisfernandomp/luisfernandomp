@@ -4,7 +4,7 @@
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, meu nome é Luís Fernando</h1>
 <p align = "justify">Desenvolvedor Full Stack.</p>
 
-Estou aprendendo no momento **ReactNative, ReactJS, Api Rest C#**
+Estou aprendendo no momento **ReactNative, ReactJS, Web Api .NET Core, Angular**
 
 ## ⚡ GitHub Stats
  <div>

@@ -2,9 +2,9 @@
 
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, meu nome é Luís Fernando</h1>
-<p align = "justify">Desenvolvedor Full Stack.</p>
+<p align = "justify">Sou um desenvolvedor full-stack que entrou no mercado de trabalho à mais ou menos 1 ano e que tem se apaixonado cada vez mais por esse universo da tecnologia.</p>
 
-Estou aprendendo no momento **ReactNative, ReactJS, Web Api .NET Core, Angular**
+No momento estou aprendendo **ReactNative, ReactJS, Web Api .NET Core, Angular**, mas o foco é Angular no front e .NET no back (C#).
 
 ## ⚡ GitHub Stats
  <div>
